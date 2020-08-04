@@ -13,7 +13,8 @@ This is the final project required by Udacity for graduation. The main goal of t
 - time
 
 ## Dataset
-The data set, `2008.csv` is a one large file with 7,009,728 rows and 29 columns. It was provided by the instructor. 
+The data set, `2008.csv` is a one large file with 7,009,728 rows and 29 columns. It was provided by the instructor.
+_Since the file is too large, github failed to upload it. I will try later to use Git large File Storage to upload it_
 
 ## Other Files Provided
 - `eda.ipynb`: This is the python file where I made all data wrangling and analysis.
